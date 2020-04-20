@@ -14,3 +14,6 @@
 ## Resumo
 
 Essa é a entrega oficial do meu primeiro desafio realizado no curso da Rockeatseat tema: NodeJs conceitos básicos. Fiquei com vontade de fazer um README.md com um avatar de uma Lhama Cyberpunk heheh! 😎
+
+[Visite meu site 🚀](https://gabriellamas.com.br/)
+
